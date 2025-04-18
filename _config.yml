@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "GMP"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "George-Michael Pescaru"
 description              : &description "personal description"
 url                      : https://gmpescaru.com
 baseurl                  : ""
