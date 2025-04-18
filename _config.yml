@@ -27,24 +27,21 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Idaho"
-  employer         : #"Red Brick University"
-  uri              : # URL
+  employer         : #
+  uri              : #
   email            : #
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # 
   googlescholar    : "https://scholar.google.com/citations?user=kLw-BXUAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : #
-  researchgate     : # URL
-  scopus           : # URL
+  orcid            : #
+  semantic         : # 
+  researchgate     : # 
+  scopus           : # 
 
   # Repositories and software development
   github           : #
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # 
 
   # Social media
   bluesky          : "gmpescaru.bsky.social"
